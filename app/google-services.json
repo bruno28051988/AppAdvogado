@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780543429637",
+    "project_id": "advocacia-a3c9f",
+    "storage_bucket": "advocacia-a3c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780543429637:android:8f7fbe89002c983526606c",
+        "android_client_info": {
+          "package_name": "com.br.advogado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780543429637-ho1fsqa5sef75j23al27gsdftpkfk0mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.advogado",
+            "certificate_hash": "e0658d8adf6da4eb251147b6d6d479c1c4135bbe"
+          }
+        },
+        {
+          "client_id": "780543429637-rerg54dk5ljv5gev3dkla8fp0kt0f35m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqeswFli4o_Mj-HuUiTd9lsREj_B6FpIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780543429637-rerg54dk5ljv5gev3dkla8fp0kt0f35m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
